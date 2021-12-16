@@ -1,3 +1,5 @@
-function hola(){
+function hola(){}
     
+function remoto(){
+
 }
